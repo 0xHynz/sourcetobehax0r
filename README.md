@@ -1,3 +1,5 @@
+# source to be hax0r
+
 the best site resources to learn hack that I recommend
 
 ### basic knowledge
@@ -6,3 +8,7 @@ the best site resources to learn hack that I recommend
 ### Capture The Flag
 - <a href="pwnable.tw">pwnable.tw</a>
 - <a href="pwn.college">pwn.college</a>
+
+### blog 
+
+- <a href="https://0xrick.github.io">0xrick</a>
