@@ -12,3 +12,7 @@ the best site resources to learn hack that I recommend
 ### blog 
 
 - <a href="https://0xrick.github.io">0xrick</a>
+
+### forum
+
+- <a href="0x00sec.org">0x00sec ( The home of hacker )</a>
