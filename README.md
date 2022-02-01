@@ -18,5 +18,5 @@ the best site resources to learn hack that I recommend
 - <a href="0x00sec.org">0x00sec ( The home of hacker )</a>
 - <a href="https://forum.surabayahackerlink.org"> surabaya hacker link</a>
 
-### hacking lab
+### Vulnerable webapp
 - <a href="https://github.com/effortlessdevsec/ninjasworkout">ninja workout</a>
