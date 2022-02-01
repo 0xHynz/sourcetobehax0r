@@ -12,7 +12,7 @@ the best site resources to learn hack that I recommend
 ### Blog / write up
 
 - <a href="https://0xrick.github.io">0xrick</a>
-- <a href"https://petircysec.com">petircysec (indo)</a>
+- <a href="https://petircysec.com">petircysec (indo)</a>
 
 ### Forum
 
