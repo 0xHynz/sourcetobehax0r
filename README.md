@@ -9,14 +9,15 @@ the best site resources to learn hack that I recommend
 - <a href="pwnable.tw">pwnable.tw</a>
 - <a href="pwn.college">pwn.college</a>
 
-### Blog 
+### Blog / write up
 
 - <a href="https://0xrick.github.io">0xrick</a>
+- <a href"https://petircysec.com">petircysec (indo)</a>
 
 ### Forum
 
 - <a href="0x00sec.org">0x00sec ( The home of hacker )</a>
-- <a href="https://forum.surabayahackerlink.org"> surabaya hacker link</a>
+- <a href="https://forum.surabayahackerlink.org"> surabaya hacker link (indo)</a>
 
 ### Vulnerable webapp
 - <a href="https://github.com/effortlessdevsec/ninjasworkout">ninja workout</a>
