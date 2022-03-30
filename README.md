@@ -3,11 +3,13 @@
 the best site resources to learn hack that I recommend
 
 ### Basic knowledge
-- <a href="ctf101.org">ctf101</a>
+- <a href="https://ctf101.org">ctf101</a>
 
 ### Capture The Flag
-- <a href="pwnable.tw">pwnable.tw</a>
-- <a href="pwn.college">pwn.college</a>
+- <a href="https://pwnable.tw">pwnable.tw</a>
+- <a href="https://pwn.college">pwn.college</a>
+- <a href="https://hbh.sh">hbh.sh</a>
+- <a href="https://root-me.org">root-me.org</a>
 
 ### Blog / write up
 
